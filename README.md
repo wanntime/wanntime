@@ -1,4 +1,4 @@
-# Hi, I'm Wataru 👋
+# Hi, I'm Wataru 👋 🇯🇵
 
 ### Turning ideas into things you can explore.
 
@@ -14,7 +14,7 @@
    Web × 3D × XR
 ```
 
-I'm a software engineer who enjoys building interactive experiences
+I'm a software engineer from Japan who enjoys building interactive experiences
 and turning ideas into products people can use.
 
 I work across the development lifecycle—from understanding customer needs
